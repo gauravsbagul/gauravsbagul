@@ -1,4 +1,4 @@
-## Hi there, I'm Gaurav 👋
+# Hi there, I'm Gaurav 👋
 
 ### I'm a Developer!
 - 🔭 I’m currently working on a [React Native](https://reactnative.dev/)!
