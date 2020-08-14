@@ -64,6 +64,8 @@ Email: gauravsbagul@gmail.com
 
   [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Whole chain](https://dashboard.wholechain.com/)
   
+  [<img align="left" alt="flutter | Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" /> Facebook feeds UI clone](https://gauravsbagul.github.io/#/)
+  
    [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Chat app](https://node-realtime-chat-app-gb.herokuapp.com/)
 
   [<img align="left" alt="go | Go" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" /> Onco Power](https://www.oncopower.org/)
@@ -73,3 +75,6 @@ Email: gauravsbagul@gmail.com
   [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Poketimes](https://poketimes-app.herokuapp.com/)
   
   [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Todo App](https://reactjstodoapp.herokuapp.com/)
+  
+  
+  
