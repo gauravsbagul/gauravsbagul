@@ -21,9 +21,6 @@ Email: gauravsbagul@gmail.com
 
 ## Languages and Tools:
 
-
-#### Technologies I have worked on:
-
 <br/>
 <br/>
 
@@ -35,10 +32,6 @@ Email: gauravsbagul@gmail.com
 <br/>
 <br/>
 
-#### Languages I can work with:
-
-<br/>
-<br/>
 
   <img align="left" alt="JavaScript" width="100px" src="./assets/javascript.gif" />
   <img align="left" alt="HTML5" width="100px" src="./assets/html5.gif" />
@@ -50,18 +43,8 @@ Email: gauravsbagul@gmail.com
 <br/>
 <br/>
 
-#### Database I am familiar with:
-
-<br/>
-<br/>
-  
   <img align="left" alt="PostgreSQl" width="100px" src="./assets/postgresql.gif" />
   <img align="left" alt="MongoDB" width="100px" src="./assets/mongo.gif" />
-
-<br/>
-<br/>
-
-#### IDE I can work on:
 
 <br/>
 <br/>
@@ -72,18 +55,12 @@ Email: gauravsbagul@gmail.com
 <br/>
 <br/>
 
-#### Version Controls I use:
-
-<br/>
-<br/>
-
   <img align="left" alt="Git" width="100px" src="./assets/git.gif" />
   <img align="left" alt="GitHub" width="100px" src="./assets/github.gif" />
   <img align="left" alt="BitBucket" width="100px" src="./assets/bitbucket.gif" />
 
 <br/>
 <br/>
-
 
 #### Projects I have worked on:
 
