@@ -22,9 +22,8 @@ Email: gauravsbagul@gmail.com
 ### Languages and Tools:
 
 #### Technologies I have worked on...
-
-<br />
-
+    <br />
+    <br />
 <img align="left" alt="React" width="60px" src="./assets/react-native.gif" />
 
 <img align="left" alt="flutter" width="60px" src="./assets/flutter.gif" />
@@ -32,13 +31,11 @@ Email: gauravsbagul@gmail.com
 <img align="left" alt="Node.js" width="60px" src="./assets/nodejs.gif" />
 
 <img align="left" alt="Deno" width="60px" src="./assets/deno.gif" />
-
-<br />
-
+    <br />
+    <br />
 #### Language I can work with...
-
-<br />
-
+    <br />
+    <br />
 <img align="left" alt="JavaScript" width="60px" src="./assets/javascript.gif" />
 
 <img align="left" alt="HTML5" width="60px" src="./assets/html5.gif" />
@@ -50,42 +47,35 @@ Email: gauravsbagul@gmail.com
 <img align="left" alt="Go" width="60px" src="./assets/golang.gif" />
 
 <img align="left" alt="Swift" width="60px" src="./assets/swift.gif" />
-
-<br />
-<br />
-
+    <br />
+    <br />
 #### Database I am familiar with...
-<br />
-
+    <br />
+    <br />
 <img align="left" alt="PostgreSQl" width="60px" src="./assets/postgresql.gif" />
 
 <img align="left" alt="MongoDB" width="60px" src="./assets/mongo.gif" />
-
-<br />
-
+    <br />
+    <br />
 #### IDE I can work on...
-
-<br />
-
+    <br />
+    <br />
 <img align="left" alt="Visual Studio Code" width="60px" src="./assets/vscode.gif" />
 
 <img align="left" alt="Visual Studio Code" width="60px" src="./assets/xcode-logo.jpg" />
-
-<br />
-
+    <br />
+    <br />
 #### Version Controls I use...
-
-<br />
-
+    <br />
+    <br />
 <img align="left" alt="Git" width="60px" src="./assets/git.gif" />
 
 <img align="left" alt="GitHub" width="60px" src="./assets/github.gif" />
 
 <img align="left" alt="GitHub" width="60px" src="./assets/bitbucket.gif" />
 
-
-<br />
-<br />
+    <br />
+    <br />
 
 ### Projects I have worked on...
 
