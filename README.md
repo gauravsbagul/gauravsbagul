@@ -38,8 +38,10 @@ Email: gauravsbagul@gmail.com
   <img align="left" alt="Git" width="100px"  src="./assets/git.png" />
   <img align="left" alt="GitHub" width="100px"  src="./assets/github.jpg" />
   <img align="left" alt="BitBucket" width="100px"  src="./assets/bitbucket.png" />
+<br/>
+<br/>
 
-#### Projects I have worked on:
+## Projects I have worked on:
 
 <br/>
 <br/>
