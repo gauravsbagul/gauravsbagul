@@ -26,13 +26,15 @@ Email: gauravsbagul@gmail.com
     <br />
     <br />
 
-<img align="left" alt="React" width="100px" src="./assets/react-native.gif" />
+<div>
+  <img align="left" alt="React" width="100px" src="./assets/react-native.gif" />
 
-<img align="left" alt="flutter" width="100px" src="./assets/flutter.gif" />
+  <img align="left" alt="flutter" width="100px" src="./assets/flutter.gif" />
 
-<img align="left" alt="Node.js" width="100px" src="./assets/nodejs.gif" />
+  <img align="left" alt="Node.js" width="100px" src="./assets/nodejs.gif" />
 
-<img align="left" alt="Deno" width="100px" src="./assets/deno.gif" />
+  <img align="left" alt="Deno" width="100px" src="./assets/deno.gif" />
+</div>
 
     <br />
     <br />
@@ -42,27 +44,33 @@ Email: gauravsbagul@gmail.com
     <br />
     <br />
 
-<img align="left" alt="JavaScript" width="100px" src="./assets/javascript.gif" />
+<div>
+  <img align="left" alt="JavaScript" width="100px" src="./assets/javascript.gif" />
 
-<img align="left" alt="HTML5" width="100px" src="./assets/html5.gif" />
+  <img align="left" alt="HTML5" width="100px" src="./assets/html5.gif" />
 
-<img align="left" alt="CSS3" width="100px" src="./assets/css3.gif" />
+  <img align="left" alt="CSS3" width="100px" src="./assets/css3.gif" />
+  
+  <img align="left" alt="Python" width="100px" src="./assets/python.gif" />
 
-<img align="left" alt="Swift" width="100px" src="./assets/python.gif" />
+  <img align="left" alt="Go" width="100px" src="./assets/golang.gif" />
 
-<img align="left" alt="Go" width="100px" src="./assets/golang.gif" />
+  <img align="left" alt="Swift" width="100px" src="./assets/swift.png" />  
+</div>
 
-<img align="left" alt="Swift" width="100px" src="./assets/swift.gif" />
-    
     <br />
     <br />
 
 #### Database I am familiar with...
-    <br />
-    <br />
-<img align="left" alt="PostgreSQl" width="100px" src="./assets/postgresql.gif" />
 
-<img align="left" alt="MongoDB" width="100px" src="./assets/mongo.gif" />
+    <br />
+    <br />
+
+<div>
+  <img align="left" alt="PostgreSQl" width="100px" src="./assets/postgresql.gif" />
+
+  <img align="left" alt="MongoDB" width="100px" src="./assets/mongo.gif" />
+</div>   
     
     <br />
     <br />
@@ -72,10 +80,12 @@ Email: gauravsbagul@gmail.com
     <br />
     <br />
 
-<img align="left" alt="Visual Studio Code" width="100px" src="./assets/vscode.gif" />
+<div>
+  <img align="left" alt="Visual Studio Code" width="100px" src="./assets/vscode.gif" />
 
-<img align="left" alt="Visual Studio Code" width="100px" src="./assets/xcode-logo.jpg" />
-
+  <img align="left" alt="XCode 11" width="100px" src="./assets/xcode-logo.jpg" />
+</div>
+  
     <br />
     <br />
 
@@ -84,11 +94,13 @@ Email: gauravsbagul@gmail.com
     <br />
     <br />
 
-<img align="left" alt="Git" width="100px" src="./assets/git.gif" />
+<div>
+  <img align="left" alt="Git" width="100px" src="./assets/git.gif" />
 
-<img align="left" alt="GitHub" width="100px" src="./assets/github.gif" />
+  <img align="left" alt="GitHub" width="100px" src="./assets/github.gif" />
 
-<img align="left" alt="GitHub" width="100px" src="./assets/bitbucket.gif" />
+  <img align="left" alt="BitBucket" width="100px" src="./assets/bitbucket.gif" />
+</div>
 
     <br />
     <br />
