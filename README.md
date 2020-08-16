@@ -21,10 +21,8 @@ Email: gauravsbagul@gmail.com
 
 ## Languages and Tools:
 
-<br/>
-<br/>
 
-### Technologies I have worked on:
+#### Technologies I have worked on:
 
 <br/>
 <br/>
@@ -37,7 +35,7 @@ Email: gauravsbagul@gmail.com
 <br/>
 <br/>
 
-### Language I can work with:
+#### Languages I can work with:
 
 <br/>
 <br/>
@@ -52,7 +50,7 @@ Email: gauravsbagul@gmail.com
 <br/>
 <br/>
 
-### Database I am familiar with:
+#### Database I am familiar with:
 
 <br/>
 <br/>
@@ -63,7 +61,7 @@ Email: gauravsbagul@gmail.com
 <br/>
 <br/>
 
-### IDE I can work on:
+#### IDE I can work on:
 
 <br/>
 <br/>
@@ -74,7 +72,7 @@ Email: gauravsbagul@gmail.com
 <br/>
 <br/>
 
-### Version Controls I use:
+#### Version Controls I use:
 
 <br/>
 <br/>
@@ -87,7 +85,7 @@ Email: gauravsbagul@gmail.com
 <br/>
 
 
-### Projects I have worked on:
+#### Projects I have worked on:
 
 <br/>
 <br/>
