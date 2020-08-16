@@ -23,9 +23,6 @@ Email: gauravsbagul@gmail.com
 
 #### Technologies I have worked on...
     
-    <br />
-    <br />
-
 <div>
   <img align="left" alt="React" width="100px" src="./assets/react-native.gif" />
 
@@ -36,13 +33,9 @@ Email: gauravsbagul@gmail.com
   <img align="left" alt="Deno" width="100px" src="./assets/deno.gif" />
 </div>
 
-    <br />
-    <br />
 
 #### Language I can work with...
-    
-    <br />
-    <br />
+
 
 <div>
   <img align="left" alt="JavaScript" width="100px" src="./assets/javascript.gif" />
@@ -58,13 +51,8 @@ Email: gauravsbagul@gmail.com
   <img align="left" alt="Swift" width="100px" src="./assets/swift.png" />  
 </div>
 
-    <br />
-    <br />
 
 #### Database I am familiar with...
-
-    <br />
-    <br />
 
 <div>
   <img align="left" alt="PostgreSQl" width="100px" src="./assets/postgresql.gif" />
@@ -72,13 +60,8 @@ Email: gauravsbagul@gmail.com
   <img align="left" alt="MongoDB" width="100px" src="./assets/mongo.gif" />
 </div>   
     
-    <br />
-    <br />
-
+    
 #### IDE I can work on...
-
-    <br />
-    <br />
 
 <div>
   <img align="left" alt="Visual Studio Code" width="100px" src="./assets/vscode.gif" />
@@ -86,14 +69,8 @@ Email: gauravsbagul@gmail.com
   <img align="left" alt="XCode 11" width="100px" src="./assets/xcode-logo.jpg" />
 </div>
   
-    <br />
-    <br />
-
 #### Version Controls I use...
     
-    <br />
-    <br />
-
 <div>
   <img align="left" alt="Git" width="100px" src="./assets/git.gif" />
 
@@ -102,8 +79,6 @@ Email: gauravsbagul@gmail.com
   <img align="left" alt="BitBucket" width="100px" src="./assets/bitbucket.gif" />
 </div>
 
-    <br />
-    <br />
 
 ### Projects I have worked on...
 
