@@ -21,38 +21,55 @@ Email: gauravsbagul@gmail.com
 
 ## Languages and Tools:
 
+<br/>
+<br/>
+
 ### Technologies I have worked on:
+
+<br/>
   <img align="left" alt="React" width="100px" src="./assets/react-native.gif" />
   <img align="left" alt="flutter" width="100px" src="./assets/flutter.gif" />
   <img align="left" alt="Node.js" width="100px" src="./assets/nodejs.gif" />
   <img align="left" alt="Deno" width="100px" src="./assets/deno.gif" />
+<br/>
 
 ### Language I can work with:
 
+<br/>
   <img align="left" alt="JavaScript" width="100px" src="./assets/javascript.gif" />
   <img align="left" alt="HTML5" width="100px" src="./assets/html5.gif" />
   <img align="left" alt="CSS3" width="100px" src="./assets/css3.gif" />
   <img align="left" alt="Python" width="100px" src="./assets/python.gif" />
   <img align="left" alt="Go" width="100px" src="./assets/golang.gif" />
   <img align="left" alt="Swift" width="100px" src="./assets/swift.png" />  
+<br/>
 
 ### Database I am familiar with:
 
+<br/>
   <img align="left" alt="PostgreSQl" width="100px" src="./assets/postgresql.gif" />
   <img align="left" alt="MongoDB" width="100px" src="./assets/mongo.gif" />
-    
-### IDE I can work on:<br/>
+<br/>
 
+### IDE I can work on:
+
+<br/>
   <img align="left" alt="Visual Studio Code" width="100px" src="./assets/vscode.gif" />
   <img align="left" alt="XCode 11" width="100px" src="./assets/xcode-logo.jpg" />
+<br/>
 
 ### Version Controls I use:
 
+<br/>
   <img align="left" alt="Git" width="100px" src="./assets/git.gif" />
   <img align="left" alt="GitHub" width="100px" src="./assets/github.gif" />
   <img align="left" alt="BitBucket" width="100px" src="./assets/bitbucket.gif" />
+<br/>
 
 ### Projects I have worked on:
+
+<br/>
+<br/>
 
   [<img align="left" alt="react-native | React-native" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> STEMuli Android](https://play.google.com/store/apps/details?id=com.stemuli&hl=en_US)
 
@@ -75,6 +92,4 @@ Email: gauravsbagul@gmail.com
   [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Poketimes](https://poketimes-app.herokuapp.com/)
   
   [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Todo App](https://reactjstodoapp.herokuapp.com/)
-  
-  
   
