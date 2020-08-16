@@ -21,7 +21,9 @@ Email: gauravsbagul@gmail.com
 
 ### Languages and Tools:
 
-#### Technologies I have worked on
+<br />
+
+#### Technologies I have worked on...
 
 <img align="left" alt="React" width="26px" src="./assets/react-native.gif" />
 
@@ -31,7 +33,9 @@ Email: gauravsbagul@gmail.com
 
 <img align="left" alt="Deno" width="26px" src="./assets/deno.gif" />
 
-#### Language I can work with
+<br />
+
+#### Language I can work with...
 
 <img align="left" alt="JavaScript" width="26px" src="./assets/javascript.gif" />
 
@@ -45,20 +49,25 @@ Email: gauravsbagul@gmail.com
 
 <img align="left" alt="Swift" width="26px" src="./assets/swift.gif" />
 
-#### Database I am familiar with 
+<br />
+
+#### Database I am familiar with...
 
 <img align="left" alt="PostgreSQl" width="26px" src="./assets/postgresql.gif" />
 
 <img align="left" alt="MongoDB" width="26px" src="./assets/mongo.gif" />
 
-#### IDE I can work on 
+<br />
+
+#### IDE I can work on...
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./assets/vscode.gif" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="./assets/xcode-logo.jpg" />
 
+<br />
 
-#### Version Controls 
+#### Version Controls I use...
 
 <img align="left" alt="Git" width="26px" src="./assets/git.gif" />
 
@@ -70,7 +79,7 @@ Email: gauravsbagul@gmail.com
 <br />
 <br />
 
-### Projects I have worked on
+### Projects I have worked on...
 
   [<img align="left" alt="react-native | React-native" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> STEMuli Android](https://play.google.com/store/apps/details?id=com.stemuli&hl=en_US)
 
