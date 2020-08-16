@@ -42,6 +42,9 @@ Email: gauravsbagul@gmail.com
   <img align="left" alt="BitBucket" width="100px"  src="./assets/bitbucket.png" />
 
   
+<br />
+<br />
+
 ## Projects I have worked on:
 
   [<img align="left" alt="react-native | React-native" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> STEMuli Android](https://play.google.com/store/apps/details?id=com.stemuli&hl=en_US)
