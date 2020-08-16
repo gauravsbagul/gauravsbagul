@@ -21,59 +21,67 @@ Email: gauravsbagul@gmail.com
 
 ### Languages and Tools:
 
-<br />
-
 #### Technologies I have worked on...
 
-<img align="left" alt="React" width="26px" src="./assets/react-native.gif" />
+<br />
 
-<img align="left" alt="flutter" width="26px" src="./assets/flutter.gif" />
+<img align="left" alt="React" width="60px" src="./assets/react-native.gif" />
 
-<img align="left" alt="Node.js" width="26px" src="./assets/nodejs.gif" />
+<img align="left" alt="flutter" width="60px" src="./assets/flutter.gif" />
 
-<img align="left" alt="Deno" width="26px" src="./assets/deno.gif" />
+<img align="left" alt="Node.js" width="60px" src="./assets/nodejs.gif" />
+
+<img align="left" alt="Deno" width="60px" src="./assets/deno.gif" />
 
 <br />
 
 #### Language I can work with...
 
-<img align="left" alt="JavaScript" width="26px" src="./assets/javascript.gif" />
+<br />
 
-<img align="left" alt="HTML5" width="26px" src="./assets/html5.gif" />
+<img align="left" alt="JavaScript" width="60px" src="./assets/javascript.gif" />
 
-<img align="left" alt="CSS3" width="26px" src="./assets/css3.gif" />
+<img align="left" alt="HTML5" width="60px" src="./assets/html5.gif" />
 
-<img align="left" alt="Swift" width="26px" src="./assets/python.gif" />
+<img align="left" alt="CSS3" width="60px" src="./assets/css3.gif" />
 
-<img align="left" alt="Go" width="26px" src="./assets/golang.gif" />
+<img align="left" alt="Swift" width="60px" src="./assets/python.gif" />
 
-<img align="left" alt="Swift" width="26px" src="./assets/swift.gif" />
+<img align="left" alt="Go" width="60px" src="./assets/golang.gif" />
 
+<img align="left" alt="Swift" width="60px" src="./assets/swift.gif" />
+
+<br />
 <br />
 
 #### Database I am familiar with...
+<br />
 
-<img align="left" alt="PostgreSQl" width="26px" src="./assets/postgresql.gif" />
+<img align="left" alt="PostgreSQl" width="60px" src="./assets/postgresql.gif" />
 
-<img align="left" alt="MongoDB" width="26px" src="./assets/mongo.gif" />
+<img align="left" alt="MongoDB" width="60px" src="./assets/mongo.gif" />
 
 <br />
 
 #### IDE I can work on...
 
-<img align="left" alt="Visual Studio Code" width="26px" src="./assets/vscode.gif" />
+<br />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="./assets/xcode-logo.jpg" />
+<img align="left" alt="Visual Studio Code" width="60px" src="./assets/vscode.gif" />
+
+<img align="left" alt="Visual Studio Code" width="60px" src="./assets/xcode-logo.jpg" />
 
 <br />
 
 #### Version Controls I use...
 
-<img align="left" alt="Git" width="26px" src="./assets/git.gif" />
+<br />
 
-<img align="left" alt="GitHub" width="26px" src="./assets/github.gif" />
+<img align="left" alt="Git" width="60px" src="./assets/git.gif" />
 
-<img align="left" alt="GitHub" width="26px" src="./assets/bitbucket.gif" />
+<img align="left" alt="GitHub" width="60px" src="./assets/github.gif" />
+
+<img align="left" alt="GitHub" width="60px" src="./assets/bitbucket.gif" />
 
 
 <br />
