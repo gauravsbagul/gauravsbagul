@@ -24,40 +24,40 @@ Email: gauravsbagul@gmail.com
 <br/>
 <br/>
 
-  <img align="left" alt="React" " height="100px" src="./assets/react-native.png" />
-  <img align="left" alt="flutter" " height="100px" src="./assets/flutter.jpg" />
-  <img align="left" alt="Node.js" " height="100px" src="./assets/nodejs.jpg" />
-  <img align="left" alt="Deno" " height="100px" src="./assets/deno.png" />
+  <img align="left" alt="React" width="100px"  src="./assets/react-native.png" />
+  <img align="left" alt="flutter" width="100px"  src="./assets/flutter.jpg" />
+  <img align="left" alt="Node.js" width="100px"  src="./assets/nodejs.jpg" />
+  <img align="left" alt="Deno" width="100px"  src="./assets/deno.png" />
 
 <br/>
 <br/>
 
 
-  <img align="left" alt="JavaScript" " height="100px" src="./assets/javascript.jpg" />
-  <img align="left" alt="HTML5" " height="100px" src="./assets/html5.jpg" />
-  <img align="left" alt="CSS3" " height="100px" src="./assets/css3.jpg" />
-  <img align="left" alt="Python" " height="100px" src="./assets/python.png" />
-  <img align="left" alt="Go" " height="100px" src="./assets/go.jpg" />
-  <img align="left" alt="Swift" " height="100px" src="./assets/swift.png" />  
+  <img align="left" alt="JavaScript" width="100px"  src="./assets/javascript.jpg" />
+  <img align="left" alt="HTML5" width="100px"  src="./assets/html5.jpg" />
+  <img align="left" alt="CSS3" width="100px"  src="./assets/css3.jpg" />
+  <img align="left" alt="Python" width="100px"  src="./assets/python.png" />
+  <img align="left" alt="Go" width="100px"  src="./assets/go.jpg" />
+  <img align="left" alt="Swift" width="100px"  src="./assets/swift.png" />  
 
 <br/>
 <br/>
 
-  <img align="left" alt="PostgreSQl" " height="100px" src="./assets/postgresql.png" />
-  <img align="left" alt="MongoDB" " height="100px" src="./assets/mongo.png" />
+  <img align="left" alt="PostgreSQl" width="100px"  src="./assets/postgresql.png" />
+  <img align="left" alt="MongoDB" width="100px"  src="./assets/mongo.png" />
 
 <br/>
 <br/>
 
-  <img align="left" alt="Visual Studio Code" " height="100px" src="./assets/vscode.png" />
-  <img align="left" alt="XCode 11" " height="100px" src="./assets/xcode-logo.jpg" />
+  <img align="left" alt="Visual Studio Code" width="100px"  src="./assets/vscode.png" />
+  <img align="left" alt="XCode 11" width="100px"  src="./assets/xcode-logo.jpg" />
 
 <br/>
 <br/>
 
-  <img align="left" alt="Git" " height="100px" src="./assets/git.png" />
-  <img align="left" alt="GitHub" " height="100px" src="./assets/github.jpg" />
-  <img align="left" alt="BitBucket" " height="100px" src="./assets/bitbucket.png" />
+  <img align="left" alt="Git" width="100px"  src="./assets/git.png" />
+  <img align="left" alt="GitHub" width="100px"  src="./assets/github.jpg" />
+  <img align="left" alt="BitBucket" width="100px"  src="./assets/bitbucket.png" />
 
 
 <br/>
