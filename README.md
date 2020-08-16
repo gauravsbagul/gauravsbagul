@@ -21,32 +21,50 @@ Email: gauravsbagul@gmail.com
 
 ### Languages and Tools:
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+#### Technologies I have worked on
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="React" width="26px" src="./assets/react-native.gif" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="flutter" width="26px" src="./assets/flutter.gif" />
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="Node.js" width="26px" src="./assets/nodejs.gif" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Deno" width="26px" src="./assets/deno.gif" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+#### Language I can work with
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="JavaScript" width="26px" src="./assets/javascript.gif" />
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="HTML5" width="26px" src="./assets/html5.gif" />
 
-<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img align="left" alt="CSS3" width="26px" src="./assets/css3.gif" />
 
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img align="left" alt="Swift" width="26px" src="./assets/python.gif" />
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Go" width="26px" src="./assets/golang.gif" />
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Swift" width="26px" src="./assets/swift.gif" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+#### Database I am familiar with 
 
+<img align="left" alt="PostgreSQl" width="26px" src="./assets/postgresql.gif" />
+
+<img align="left" alt="MongoDB" width="26px" src="./assets/mongo.gif" />
+
+#### IDE I can work on 
+
+<img align="left" alt="Visual Studio Code" width="26px" src="./assets/vscode.gif" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="./assets/xcode-logo.jpg" />
+
+
+#### Version Controls 
+
+<img align="left" alt="Git" width="26px" src="./assets/git.gif" />
+
+<img align="left" alt="GitHub" width="26px" src="./assets/github.gif" />
+
+<img align="left" alt="GitHub" width="26px" src="./assets/bitbucket.gif" />
 
 
 <br />
