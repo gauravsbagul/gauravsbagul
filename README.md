@@ -19,10 +19,9 @@ Email: gauravsbagul@gmail.com
 <br />
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
-#### Technologies I have worked on...
-    
+### Technologies I have worked on...
 <div>
   <img align="left" alt="React" width="100px" src="./assets/react-native.gif" />
 
@@ -34,9 +33,7 @@ Email: gauravsbagul@gmail.com
 </div>
 
 
-#### Language I can work with...
-
-
+### Language I can work with...
 <div>
   <img align="left" alt="JavaScript" width="100px" src="./assets/javascript.gif" />
 
@@ -52,8 +49,7 @@ Email: gauravsbagul@gmail.com
 </div>
 
 
-#### Database I am familiar with...
-
+### Database I am familiar with...
 <div>
   <img align="left" alt="PostgreSQl" width="100px" src="./assets/postgresql.gif" />
 
@@ -61,16 +57,15 @@ Email: gauravsbagul@gmail.com
 </div>   
     
     
-#### IDE I can work on...
-
+### IDE I can work on...
 <div>
   <img align="left" alt="Visual Studio Code" width="100px" src="./assets/vscode.gif" />
 
   <img align="left" alt="XCode 11" width="100px" src="./assets/xcode-logo.jpg" />
 </div>
   
-#### Version Controls I use...
-    
+  
+### Version Controls I use..
 <div>
   <img align="left" alt="Git" width="100px" src="./assets/git.gif" />
 
