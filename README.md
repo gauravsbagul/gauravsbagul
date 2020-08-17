@@ -1,11 +1,12 @@
 # Hi there, I'm Gaurav 👋
 
 ### I'm a Developer!
-- 🔭 I’m currently working on a [React Native](https://reactnative.dev/)!
-- 🌱 I’m currently learning [flutter](https://flutter.dev/), [python](https://www.python.org/), [IoS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects and learn as much as possible
-
+- 🔭  I’m currently working on a [React Native](https://reactnative.dev/)!
+- 🌱  I’m currently learning [flutter](https://flutter.dev/), [python](https://www.python.org/), [IoS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+- 👯  I’m looking to collaborate with other content creators
+- 🥅  2020 Goals: Contribute more to Open Source projects and learn as much as possible
+ <br/> <br/>
+ 
 ### Connect with me:
 Mob: 9604374093
 <br />
@@ -15,8 +16,89 @@ Email: gauravsbagul@gmail.com
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/gauravsbagul/)
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/gauravsbagul/)
 
+<br />
+
+## Languages and Tools:
+
+<br>
+<table>
+<tbody>
+<tr>
+<td align="center" width="20%">
+<span><b><center>React-Native</center></b></span> 
+<img src="https://img.icons8.com/nolan/48/react-native.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Redux</center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/redux.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>NodeJS</center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Swift</center></b></span> 
+<img src="https://img.icons8.com/fluent/48/000000/swift.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Postgreesql</center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Deno</center></b></span> 
+<img height=65px src="https://deno.land/images/icons/apple-touch-icon-180x180.png"> 
+</td>
+
+
+
+<td align="center" width="20%">
+<span><b><center>Flutter</center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>MongoDB</center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Go</center></b></span> 
+<img src="https://img.icons8.com/color/48/000000/golang.png"/>
+</td>
+</tr>
+
+</tbody>
+</table>
 
 <br />
+<br />
+
 
 ## Projects I have worked on:
 
@@ -41,38 +123,5 @@ Email: gauravsbagul@gmail.com
   [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Poketimes](https://poketimes-app.herokuapp.com/)
   
   [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Todo App](https://reactjstodoapp.herokuapp.com/)
-    
-<br />
-
-## Languages and Tools:
-
-<img align="left" alt="React-Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="XCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Postgewsql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+  
 
