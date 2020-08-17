@@ -17,8 +17,6 @@ Email: gauravsbagul@gmail.com
 
 
 <br />
-<br />
-
 
 ## Projects I have worked on:
 
@@ -44,7 +42,6 @@ Email: gauravsbagul@gmail.com
   
   [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Todo App](https://reactjstodoapp.herokuapp.com/)
     
-<br />
 <br />
 
 ## Languages and Tools:
