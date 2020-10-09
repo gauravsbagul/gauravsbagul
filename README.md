@@ -59,7 +59,7 @@ Email: gauravsbagul@gmail.com
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Postgreesql</center></b></span> 
+<span><b><center>PostgreSQL</center></b></span> 
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 </td>
 
