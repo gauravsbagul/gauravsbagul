@@ -4,7 +4,7 @@
 - 🔭  I’m currently working on a [React Native](https://reactnative.dev/)!
 - 🌱  I’m currently learning [flutter](https://flutter.dev/), [python](https://www.python.org/), [IoS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
 - 👯  I’m looking to collaborate with other content creators
-- 🥅  2020 Goals: Contribute more to Open Source projects and learn as much as possible
+- 🥅  2021 Goals: Contribute more to Open Source projects and learn as much as possible
  <br/> <br/>
  
 ### Connect with me:
@@ -123,5 +123,11 @@ Email: gauravsbagul@gmail.com
   [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Poketimes](https://poketimes-app.herokuapp.com/)
   
   [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Todo App](https://reactjstodoapp.herokuapp.com/)
+  
+  
+![My github stats](https://github-readme-stats.vercel.app/api?username=gauravsbagul&show_icons=true&theme=dracula&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsbagul&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   
 
