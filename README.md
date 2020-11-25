@@ -127,7 +127,7 @@ Email: gauravsbagul@gmail.com
   
 ![My github stats](https://github-readme-stats.vercel.app/api?username=gauravsbagul&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsbagul&theme=dracula&layout=compact)](https://github.com/gauravsbagul/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsbagul&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
