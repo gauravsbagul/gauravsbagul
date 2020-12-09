@@ -1,10 +1,10 @@
 # Hi there, I'm Gaurav 👋
 
 ### I'm a Developer!
-- 🔭  I’m currently working on a [React Native](https://reactnative.dev/)!
-- 🌱  I’m currently learning [flutter](https://flutter.dev/), [python](https://www.python.org/), [IoS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
-- 👯  I’m looking to collaborate with other content creators
-- 🥅  2021 Goals: Contribute more to Open Source projects and learn as much as possible
+- I’m currently working on a [React Native](https://reactnative.dev/)!
+- I’m currently learning [flutter](https://flutter.dev/), [python](https://www.python.org/), [IoS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+- I’m looking to collaborate with other content creators
+- 2021 Goals: Contribute more to Open Source projects and learn as much as possible
  <br/> <br/>
  
 ### Connect with me:
@@ -12,9 +12,9 @@ Mob: 9604374093
 <br />
 Email: gauravsbagul@gmail.com
 
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gauravsbagul/)
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/gauravsbagul/)
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/gauravsbagul/)
+[<img align="left" alt="linkedin | LinkedIn" width="3%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gauravsbagul/)
+[<img align="left" alt="twitter | Twitter" width="3%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/gauravsbagul/)
+[<img align="left" alt="instagram | Instagram" width="3%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/gauravsbagul/)
 
 <br />
 
@@ -65,7 +65,7 @@ Email: gauravsbagul@gmail.com
 
 <td align="center" width="20%">
 <span><b><center>Deno</center></b></span> 
-<img height=65px src="https://deno.land/images/icons/apple-touch-icon-180x180.png"> 
+<img height=50px src="https://deno.land/images/icons/apple-touch-icon-180x180.png"> 
 </td>
 
 
