@@ -1,4 +1,4 @@
-# Hi there, I'm Gaurav 👋
+# Hi there, I'm Gaurav <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### I'm a Developer!
 - I’m currently working on a [React Native](https://reactnative.dev/)!
@@ -12,9 +12,9 @@ Mob: 9604374093
 <br />
 Email: gauravsbagul@gmail.com
 
-[<img align="left" alt="linkedin | LinkedIn" width="3%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gauravsbagul/)
-[<img align="left" alt="twitter | Twitter" width="3%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/gauravsbagul/)
-[<img align="left" alt="instagram | Instagram" width="3%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/gauravsbagul/)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png' height='25'>](https://www.hackerrank.com/gauravsbagul/)[<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' height='25'>](https://www.linkedin.com/in/gauravsbagul/)
+[<img align="left" alt="twitter | Twitter" width="3%" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />](http://twitter.com/gauravsbagul/)
+[<img align="left" alt="instagram | Instagram" width="3%" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />](https://www.instagram.com/gauravsbagul/)
 
 <br />
 
@@ -129,6 +129,3 @@ Email: gauravsbagul@gmail.com
 ![My github stats](https://github-readme-stats.vercel.app/api?username=gauravsbagul&show_icons=true&theme=dracula&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsbagul&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-
