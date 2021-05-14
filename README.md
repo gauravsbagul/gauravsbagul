@@ -2,7 +2,7 @@
 
 ### I'm a Developer!
 - I’m currently working on a [React Native](https://reactnative.dev/)!
-- I’m currently learning [flutter](https://flutter.dev/), [python](https://www.python.org/), [IoS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+- I’m currently learning [flutter](https://flutter.dev/), [python](https://www.python.org/), [IOS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
 - I’m looking to collaborate with other content creators
 - 2021 Goals: Contribute more to Open Source projects and learn as much as possible
  <br/> <br/>
