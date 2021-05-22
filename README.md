@@ -126,6 +126,9 @@ Email: gauravsbagul@gmail.com
  
   [<img align="left" alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" /> Angular Todo App]( https://angular-todo-app-crash-course.netlify.app/)
   
+  [<img align="left" alt="Nexjs" width="22px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" /> Get Post App]( https://react-nextjs-crash-course-94wrmfnr1-gauravsbagul.vercel.app/)
+  
+  
 ![My github stats](https://github-readme-stats.vercel.app/api?username=gauravsbagul&show_icons=true&theme=dracula&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsbagul&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
