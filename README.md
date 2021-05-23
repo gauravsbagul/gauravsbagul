@@ -1,5 +1,7 @@
 # Hi there, I'm Gaurav <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+![](https://komarev.com/ghpvc/?username=gauravsbagul&color=orange&label=People+Been+here)
+
 ### I'm a Developer!
 - I’m currently working on a [React Native](https://reactnative.dev/)!
 - I’m currently learning [flutter](https://flutter.dev/), [python](https://www.python.org/), [IOS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
