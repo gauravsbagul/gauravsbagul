@@ -6,7 +6,7 @@
 - I’m looking to collaborate with other content creators
 - 2021 Goals: Contribute more to Open Source projects and learn as much as possible
  <br/> <br/>
- 
+
 ### Connect with me:
 Mob: 9604374093
 <br />
@@ -102,33 +102,33 @@ Email: gauravsbagul@gmail.com
 
 ## Projects I have worked on:
 
-  [<img align="left" alt="react-native | React-native" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> STEMuli Android](https://play.google.com/store/apps/details?id=com.stemuli&hl=en_US)
+  [<img align="left" alt="react-native | React-native" width="22px" src="assets/react-native.svg" /> STEMuli Android](https://play.google.com/store/apps/details?id=com.stemuli&hl=en_US)
 
-  [<img align="left" alt="react-native | React-native" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> STEMuli IOS](https://apps.apple.com/us/app/stemuli/id1483444831)
+  [<img align="left" alt="react-native | React-native" width="22px" src="assets/react-native.svg" /> STEMuli IOS](https://apps.apple.com/us/app/stemuli/id1483444831)
 
-  [<img align="left" alt="react-native | React-native" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> KNAV Android](https://play.google.com/store/apps/details?id=com.knav)
+  [<img align="left" alt="react-native | React-native" width="22px" src="assets/react-native.svg" /> KNAV Android](https://play.google.com/store/apps/details?id=com.knav)
 
-  [<img align="left" alt="react-native | React-native" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> KNAV IOS](https://apps.apple.com/us/app/grow-your-business/id1481198319)
+  [<img align="left" alt="react-native | React-native" width="22px" src="assets/react-native.svg" /> KNAV IOS](https://apps.apple.com/us/app/grow-your-business/id1481198319)
 
-  [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Whole chain](https://dashboard.wholechain.com/)
-  
-  [<img align="left" alt="flutter | Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" /> Facebook feeds UI clone](https://gauravsbagul.github.io/#/)
-  
-   [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Chat app](https://node-realtime-chat-app-gb.herokuapp.com/)
+  [<img align="left" alt="react-native | React Js" width="22px" src="assets/react-native.svg" /> Whole chain](https://dashboard.wholechain.com/)
+
+  [<img align="left" alt="flutter | Flutter" width="22px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" /> Facebook feeds UI clone](https://gauravsbagul.github.io/#/)
+
+   [<img align="left" alt="react-native | React Js" width="22px" src="assets/reactjs.svg" /> Chat app](https://node-realtime-chat-app-gb.herokuapp.com/)
 
   [<img align="left" alt="go | Go" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" /> Onco Power](https://www.oncopower.org/)
 
-  [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Latest news](https://voice-command-news-app.herokuapp.com/)
-  
-  [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> Poketimes](https://poketimes-app.herokuapp.com/)
-  
-  [<img align="left" alt="react-native | React Js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> ReactJs Todo App](https://reactjstodoapp.herokuapp.com/)
- 
-  [<img align="left" alt="Angular" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" /> Angular Todo App]( https://angular-todo-app-crash-course.netlify.app/)
-  
-  [<img align="left" alt="Nexjs" width="22px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" /> Get Post App]( https://react-nextjs-crash-course-94wrmfnr1-gauravsbagul.vercel.app/)
-  
-  
+  [<img align="left" alt="react-native | React Js" width="22px" src="assets/react-native.svg" /> Latest news](https://voice-command-news-app.herokuapp.com/)
+
+  [<img align="left" alt="react-native | React Js" width="22px" src="assets/react-native.svg" /> Poketimes](https://poketimes-app.herokuapp.com/)
+
+  [<img align="left" alt="react-native | React Js" width="22px" src="assets/react-native.svg" /> ReactJs Todo App](https://reactjstodoapp.herokuapp.com/)
+
+  [<img align="left" alt="Angular" width="22px" src="assets/angular.svg" /> Angular Todo App]( https://angular-todo-app-crash-course.netlify.app/)
+
+  [<img align="left" alt="Next JS" width="22px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" /> Get Post App]( https://react-nextjs-crash-course-94wrmfnr1-gauravsbagul.vercel.app/)
+
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=gauravsbagul&show_icons=true&theme=dracula&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsbagul&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
