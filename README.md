@@ -119,6 +119,8 @@ Email: gauravsbagul@gmail.com
    [<img align="left" alt="react-native | React Js" width="22px" src="assets/reactjs.svg" /> Chat app](https://node-realtime-chat-app-gb.herokuapp.com/)
 
   [<img align="left" alt="go | Go" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" /> Onco Power](https://www.oncopower.org/)
+  
+  ## My Pet Projects:
 
   [<img align="left" alt="react-native | React Js" width="22px" src="https://github.com/gauravsbagul/gauravsbagul/blob/master/assets/reactjs.svg" /> Latest news](https://voice-command-news-app.herokuapp.com/)
 
