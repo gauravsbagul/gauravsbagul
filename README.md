@@ -116,6 +116,9 @@ Email: gauravsbagul@gmail.com
 
   [<img align="left" alt="go | Go" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" /> Onco Power](https://www.oncopower.org/)
   
+  [<img align="left" alt="react-js | React Js" width="22px" src="https://github.com/gauravsbagul/gauravsbagul/blob/master/assets/reactjs.svg" /> SOCON Take Away App (React PWA/ NodeJs)](https://app.socon.tech/)
+
+
   ## My Pet Projects:
 
   [<img align="left" alt="flutter | Flutter" width="22px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" /> Facebook feeds UI clone](https://gauravsbagul.github.io/#/)
