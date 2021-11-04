@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=gauravsbagul&color=orange&label=People+Been+here)
 
 ### I'm a Developer!
-- I’m currently working on a [ReactJS](https://reactjs.org/)/[NextJs](https://nextjs.org/)/[React Native](https://reactnative.dev/)!
-- I’m currently learning [flutter](https://flutter.dev/), [python](https://www.python.org/), [IOS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+- Currently working on a [ReactJS](https://reactjs.org/)/[NextJs](https://nextjs.org/)/[React Native](https://reactnative.dev/)!
+- Currently learning [flutter](https://flutter.dev/), [python](https://www.python.org/), [IOS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
 - I’m looking to collaborate with other content creators
 - 2021 Goals: Contribute more to Open Source projects and learn as much as possible
  <br/> <br/>
@@ -114,13 +114,13 @@ Email: gauravsbagul@gmail.com
 
   [<img align="left" alt="react-native | React Js" width="22px" src="https://github.com/gauravsbagul/gauravsbagul/blob/master/assets/reactjs.svg" /> Whole chain](https://dashboard.wholechain.com/)
 
-  [<img align="left" alt="flutter | Flutter" width="22px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" /> Facebook feeds UI clone](https://gauravsbagul.github.io/#/)
-
-   [<img align="left" alt="react-native | React Js" width="22px" src="assets/reactjs.svg" /> Chat app](https://node-realtime-chat-app-gb.herokuapp.com/)
-
   [<img align="left" alt="go | Go" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" /> Onco Power](https://www.oncopower.org/)
   
   ## My Pet Projects:
+
+  [<img align="left" alt="flutter | Flutter" width="22px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" /> Facebook feeds UI clone](https://gauravsbagul.github.io/#/)
+
+   [<img align="left" alt="react-native | React Js" width="22px" src="assets/reactjs.svg" /> Chat app](https://node-realtime-chat-app-gb.herokuapp.com/)
 
   [<img align="left" alt="react-native | React Js" width="22px" src="https://github.com/gauravsbagul/gauravsbagul/blob/master/assets/reactjs.svg" /> Latest news](https://voice-command-news-app.herokuapp.com/)
 
