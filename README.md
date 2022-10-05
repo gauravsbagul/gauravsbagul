@@ -6,7 +6,7 @@
 - Currently working on a [ReactJS](https://reactjs.org/)/[NextJs](https://nextjs.org/)/[React Native](https://reactnative.dev/)!
 - Currently learning [flutter](https://flutter.dev/), [python](https://www.python.org/), [IOS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
 - I’m looking to collaborate with other content creators
-- 2021 Goals: Contribute more to Open Source projects and learn as much as possible
+- 2022 Goals: Contribute more to Open Source projects and learn as much as possible
  <br/> <br/>
 
 ### Connect with me:
@@ -16,7 +16,6 @@ Email: gauravsbagul@gmail.com
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png' height='25'>](https://www.hackerrank.com/gauravsbagul/)[<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' height='25'>](https://www.linkedin.com/in/gauravsbagul/)
 [<img align="left" alt="twitter | Twitter" width="3%" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />](http://twitter.com/gauravsbagul/)
-[<img align="left" alt="instagram | Instagram" width="3%" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />](https://www.instagram.com/gauravsbagul/)
 
 <br />
 
