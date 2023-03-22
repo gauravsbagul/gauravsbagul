@@ -6,7 +6,7 @@
 - Currently working on a [ReactJS](https://reactjs.org/)/[NextJs](https://nextjs.org/)/[React Native](https://reactnative.dev/)!
 - Currently learning [flutter](https://flutter.dev/), [python](https://www.python.org/), [IOS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
 - I’m looking to collaborate with other content creators
-- 2022 Goals: Contribute more to Open Source projects and learn as much as possible
+- 2023 Goals: Contribute more to Open Source projects and learn as much as possible
  <br/> <br/>
 
 ### Connect with me:
